@@ -67,4 +67,5 @@ Demand data is in **96 time blocks** (15-min intervals) per day.
 ## 👤 Author
 **Duvvada Naveen Kumar**  
 Data Analyst, MP Power Management Co. Ltd.  
-[LinkedIn](https://linkedin.com/in/duvvada-naveen-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/duvvada-naveen-kumar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:duvvadanaveen7@gmail.com)
