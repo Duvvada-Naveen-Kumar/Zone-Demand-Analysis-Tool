@@ -37,7 +37,7 @@ reducing analysis time significantly.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/Zone-Demand-Analysis-Tool.git
+git clone https://github.com/Duvvada-Naveen-Kumar/Zone-Demand-Analysis-Tool.git
 
 # Install dependencies
 pip install -r requirements.txt
